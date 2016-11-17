@@ -1,0 +1,61 @@
+c:\users\akin\documents\visual studio 2015\Projects\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\bin\Debug\deneme.exe.config
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Debug\deneme.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Debug\deneme.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\bin\Debug\deneme.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\bin\Debug\deneme.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\AKIN\Desktop\c# yedek,\classeess\deneme\bin\Debug\deneme.exe.config
+C:\Users\AKIN\Desktop\c# yedek,\classeess\deneme\obj\Debug\Interop.MLApp.dll
+C:\Users\AKIN\Desktop\c# yedek,\classeess\deneme\obj\Debug\deneme.csproj.ResolveComReference.cache
+C:\Users\AKIN\Desktop\c# yedek,\classeess\deneme\obj\Debug\deneme.exe
+C:\Users\AKIN\Desktop\c# yedek,\classeess\deneme\obj\Debug\deneme.pdb
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Debug\Interop.MLApp.dll
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Debug\deneme.csproj.ResolveComReference.cache
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\bin\Debug\ARIYÜZ.exe.config
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\bin\Debug\ARIYÜZ.exe
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\bin\Debug\ARIYÜZ.pdb
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Debug\ARIYÜZ.Properties.Resources.resources
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Debug\ARIYÜZ.exe
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Debug\ARIYÜZ.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\bin\Debug\ARIYÜZ.exe.config
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Debug\ARIYÜZ.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Debug\ARIYÜZ.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\bin\Debug\ARIYÜZ.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\bin\Debug\ARIYÜZ.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Debug\ARIYÜZ.Properties.Resources.resources
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\bin\Debug\ARIYÜZ.exe.config
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\obj\Debug\ARIYÜZ.exe
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\obj\Debug\ARIYÜZ.pdb
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\bin\Debug\ARIYÜZ.exe
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\bin\Debug\ARIYÜZ.pdb
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\obj\Debug\ARIYÜZ.Properties.Resources.resources
+C:\Users\Paşa\Desktop\arayuz_duzgun\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\bin\Debug\ARIYÜZ.exe.config
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\obj\Debug\ARIYÜZ.exe
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\obj\Debug\ARIYÜZ.pdb
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\obj\Debug\ARIYÜZ.Properties.Resources.resources
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\bin\Debug\ARIYÜZ.exe
+C:\Users\Paşa\Desktop\arayuz_duzgun_akin\deneme\bin\Debug\ARIYÜZ.pdb

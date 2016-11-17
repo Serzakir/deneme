@@ -1,0 +1,28 @@
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\bin\Release\deneme.exe.config
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\bin\Release\deneme.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\bin\Release\deneme.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Release\deneme.csprojResolveAssemblyReference.cache
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Release\deneme.Form1.resources
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Release\deneme.Properties.Resources.resources
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Release\deneme.csproj.GenerateResource.Cache
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Release\deneme.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\deneme - Kopya\deneme\obj\Release\deneme.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Release\deneme.Form1.resources
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Release\deneme.csproj.GenerateResource.Cache
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\bin\Release\ARIYÜZ.exe.config
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\bin\Release\ARIYÜZ.exe
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\bin\Release\ARIYÜZ.pdb
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Release\Interop.MLApp.dll
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Release\deneme.csproj.ResolveComReference.cache
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Release\deneme.Form1.resources
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Release\ARIYÜZ.Properties.Resources.resources
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Release\deneme.csproj.GenerateResource.Cache
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Release\ARIYÜZ.exe
+C:\Users\AKIN\Documents\Visual Studio 2013\Projects\classeess\deneme\obj\Release\ARIYÜZ.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\bin\Release\ARIYÜZ.exe.config
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Release\ARIYÜZ.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Release\ARIYÜZ.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\bin\Release\ARIYÜZ.exe
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\bin\Release\ARIYÜZ.pdb
+C:\Users\AKIN\Documents\Visual Studio 2015\Projects\classeess\deneme\obj\Release\ARIYÜZ.Properties.Resources.resources
+c:\users\akin\documents\visual studio 2015\Projects\classeess\deneme\obj\Release\deneme.csprojResolveAssemblyReference.cache
